@@ -19,7 +19,7 @@
 - _It has a ditto look of how Walmart color pallette looks._
 
 ## Links and screenshots
-[Here](https://user-images.githubusercontent.com/38094880/43736564-e89349d0-9972-11e8-9f34-f0095486cd79.gif) is a link to a working demo of the app.
+[Here](https://drive.google.com/open?id=1TkXArptWCQGkRaKiVPJSP-InNE_AKsFd) is a link to a working demo of the app.
 
 
 
